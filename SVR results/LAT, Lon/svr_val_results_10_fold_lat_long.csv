@@ -1,0 +1,12 @@
+,rmse,r2,smape,mae
+0,"[0.14285582019418883, 0.13993133180612613, 0.1432899062047455, 0.13977308398914964, 0.14394900737413122, 0.13983396224898578, 0.14001359346762562, 0.14105254398041056, 0.14065728067617184, 0.13752906552785923]","[<bound method RegressorMixin.score of SVR(C=1, cache_size=200, coef0=0.0, degree=3, epsilon=0.1, gamma=0.1,
+    kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=False)>, <bound method RegressorMixin.score of SVR(C=1, cache_size=200, coef0=0.0, degree=3, epsilon=0.1, gamma=0.1,
+    kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=False)>, <bound method RegressorMixin.score of SVR(C=1, cache_size=200, coef0=0.0, degree=3, epsilon=0.1, gamma=0.1,
+    kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=False)>, <bound method RegressorMixin.score of SVR(C=1, cache_size=200, coef0=0.0, degree=3, epsilon=0.1, gamma=0.1,
+    kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=False)>, <bound method RegressorMixin.score of SVR(C=1, cache_size=200, coef0=0.0, degree=3, epsilon=0.1, gamma=0.1,
+    kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=False)>, <bound method RegressorMixin.score of SVR(C=1, cache_size=200, coef0=0.0, degree=3, epsilon=0.1, gamma=0.1,
+    kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=False)>, <bound method RegressorMixin.score of SVR(C=1, cache_size=200, coef0=0.0, degree=3, epsilon=0.1, gamma=0.1,
+    kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=False)>, <bound method RegressorMixin.score of SVR(C=1, cache_size=200, coef0=0.0, degree=3, epsilon=0.1, gamma=0.1,
+    kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=False)>, <bound method RegressorMixin.score of SVR(C=1, cache_size=200, coef0=0.0, degree=3, epsilon=0.1, gamma=0.1,
+    kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=False)>, <bound method RegressorMixin.score of SVR(C=1, cache_size=200, coef0=0.0, degree=3, epsilon=0.1, gamma=0.1,
+    kernel='rbf', max_iter=-1, shrinking=True, tol=0.001, verbose=False)>]","[43.819566137620264, 43.654127765084915, 44.06598558244582, 44.38120593779274, 44.840861738000996, 43.28569813044099, 44.62987124746721, 43.19508592992163, 44.29377693009756, 42.523814717886125]","[0.10000042053967396, 0.09819831020148104, 0.09840245187111518, 0.09811283421877233, 0.09948138464914046, 0.09526844889163043, 0.09797297245216653, 0.09690900688552918, 0.0984744421032101, 0.09453024536666081]"
